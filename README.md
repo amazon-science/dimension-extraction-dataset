@@ -14,7 +14,7 @@ If using our dataset, please cite the following:
  author = {Pushpendu Ghosh and Nancy Wang and Promod Yenigalla},
  title = {D-Extract: Extracting dimensional attributes from product images},
  year = {2023},
- url = {https://www.amazon.science/publications/d-extract-extracting-dimensional-attributes-from-product-images},
+ url = { https://www.amazon.science/publications/d-extract-extracting-dimensional-attributes-from-product-images },
  booktitle = {WACV 2023},
 }
 
